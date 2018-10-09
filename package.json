@@ -1,0 +1,19 @@
+{
+  "name": "jquery-autogrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.autogrow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clovis-maniguet/jquery-autogrow.git"
+  },
+  "author": "Clovis Maniguet <clovis.maniguet@idalgo.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clovis-maniguet/jquery-autogrow/issues"
+  },
+  "homepage": "https://github.com/clovis-maniguet/jquery-autogrow#readme"
+}
